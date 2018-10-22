@@ -7,8 +7,6 @@ class Header extends Component {
   }
 
   render() {
-    console.log('Header');
-
     return (
       <div>
         <h1 className='f1'>RoboFriends</h1>
